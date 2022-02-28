@@ -1,5 +1,7 @@
 ![Jasur Rahmonov](/jasur.jpg)
+
 # Jasur Rahmonov
+
 ## Get in touch
 * Phone:  +99893 051 25 28
 * Email: jasurrahmon24@gmail.com
@@ -7,17 +9,21 @@
   * LinkedIn: [Jasurbek Rahmonov](https://www.linkedin.com/in/jasurbek-rahmonov/)
   * Twitter: [@jasurrahmon94](https://twitter.com/jasurrahmon94)
   * Telegram: [@JasurRahmonov](https://t.me/JasurRahmonov)
+
 ## Brief biography
 I am Jasur. I was born in 1994 in Namangan, Uzbekistan and now live in Tashkent, Uzbekistan. After 6-years' education and half-year work experience in the field of economics, I made a "now-or-never" decision, changing my profession to web developer. I knew, in the beginning it was hard, but true way. From that day, I am trying be a better frontend developer.
+
 ## Web technologies
 * HTML5
 * CSS3
 * Sass
 * Git
 * Javascript (not much)
+
 ## Portfolio
 You may see my Github projects [here](https://github.com/jasurrahmon1994) and it is [my portfolio](https://jasurrahmonov.netlify.app/) on Netlify.
 ## Code examples
+
 ```
 function sumOfMult(num, div) {
   let times = Math.floor((num - 1 ) / div);
@@ -32,6 +38,7 @@ function solution(number) {
 return sumOfMult(number, 3) + sumOfMult(number, 5) - sumOfMult(number, 15);
 }
 ```
+
 ## Work experience as a web developer
  * December, 2020 - June, 2021 -- as intern and junior web developer in web studio "Kirano"
  * Since June, 2021 - until now -- as a web developer in marketing agency "Marketing Concept"
